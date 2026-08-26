@@ -113,3 +113,17 @@ Central PoE Switch
     ├──── NVR
     │
     └──── Monitoring Workstation
+
+## Deployment Plans
+
+### City Center
+
+![City center CCTV design](diagrams/city-center.png)
+
+### Roundabout
+
+![Roundabout CCTV design](diagrams/roundabout.png)
+
+### Public Park
+
+![Public park CCTV design](diagrams/park.png)
