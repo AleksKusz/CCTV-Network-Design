@@ -32,7 +32,7 @@ The designed infrastructure includes:
 - 32-channel NVR,
 - monitoring workstation.
 
-![CCTV network architecture](diagrams/network-architecture.png)
+![CCTV network architecture](diagrams/network-architecture.pdf)
 
 ## Technologies
 
