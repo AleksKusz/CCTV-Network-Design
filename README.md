@@ -113,6 +113,7 @@ Central PoE Switch
     ├──── NVR
     │
     └──── Monitoring Workstation
+```
 
 ## Deployment Plans
 
@@ -127,3 +128,4 @@ Central PoE Switch
 ### Public Park
 
 ![Public park CCTV design](diagrams/park.png)
+
